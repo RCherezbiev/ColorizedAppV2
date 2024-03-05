@@ -11,6 +11,7 @@
 		C432B8E22B9797850041B3EF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C432B8E12B9797850041B3EF /* ContentView.swift */; };
 		C432B8E42B9797870041B3EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C432B8E32B9797870041B3EF /* Assets.xcassets */; };
 		C432B8E72B9797870041B3EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C432B8E62B9797870041B3EF /* Preview Assets.xcassets */; };
+		C432B8EE2B97A7820041B3EF /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C432B8ED2B97A7820041B3EF /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C432B8E12B9797850041B3EF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C432B8E32B9797870041B3EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C432B8E62B9797870041B3EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C432B8ED2B97A7820041B3EF /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C432B8DF2B9797850041B3EF /* ColorizedAppV2App.swift */,
 				C432B8E12B9797850041B3EF /* ContentView.swift */,
+				C432B8ED2B97A7820041B3EF /* SliderView.swift */,
 				C432B8E32B9797870041B3EF /* Assets.xcassets */,
 				C432B8E52B9797870041B3EF /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C432B8EE2B97A7820041B3EF /* SliderView.swift in Sources */,
 				C432B8E22B9797850041B3EF /* ContentView.swift in Sources */,
 				C432B8E02B9797850041B3EF /* ColorizedAppV2App.swift in Sources */,
 			);
